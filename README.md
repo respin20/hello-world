@@ -1,2 +1,4 @@
 # hello-world
-It's been awhile and starting from the GitHub basics. This repository is for practicing the GitHub Flow.
+It's been a while and I'm starting from the GitHub basics. This repository is for practicing the GitHub Flow.
+
+
